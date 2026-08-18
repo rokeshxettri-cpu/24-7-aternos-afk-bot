@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Survivbro.aternos.me",
-    "port": 18519,
+    "ip": "ServerbroSMP.aternos.me",
+    "port": 20801,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "",
+        ""
       ]
     },
     "chat-log": true,
